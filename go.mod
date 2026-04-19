@@ -1,4 +1,4 @@
-module portnuke
+module nukeport
 
 go 1.22.0
 
